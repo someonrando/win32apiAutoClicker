@@ -1,4 +1,4 @@
-#! c:\\Users\\sohra\\AppData\\Local\\Programs\\Python\\Python38\\pythonw.exe
+#! pythonw
 import win32api, win32con, keyboard, time
 def click():
     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN, 0, 0)
