@@ -1,1 +1,1 @@
-#To run script execute 'pip install keyboard' in os shell press q on your keyboard to stop execution.
+#Execute 'pip install keyboard' in os shell and press q on your keyboard while running to stop execution.
